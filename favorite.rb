@@ -13,7 +13,7 @@ class Favorite
 
     #Class Method
     def self.all
-      @all 
+      @all
     end
 
 
